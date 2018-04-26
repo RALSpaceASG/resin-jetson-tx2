@@ -20,3 +20,6 @@
 [submodule "layers/meta-rust"]
 	path = layers/meta-rust
 	url = https://github.com/meta-rust/meta-rust.git
+[submodule "layers/meta-auvidea-j120"]
+	path = layers/meta-auvidea-j120
+	url = https://github.com/RALSpaceASG/meta-auvidea-j120.git

@@ -16,6 +16,7 @@ BBLAYERS ?= " \
     ${TOPDIR}/../layers/meta-resin/meta-resin-common \
     ${TOPDIR}/../layers/meta-resin/meta-resin-rocko \
     ${TOPDIR}/../layers/meta-resin-jetson \
+    ${TOPDIR}/../layers/meta-auvidea-j120 \
     ${TOPDIR}/../layers/meta-rust \
     "
 
